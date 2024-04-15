@@ -130,6 +130,9 @@ body
     -ms-flex-pack: distribute;
     justify-content: space-around;
 }
+.top-nav h5 {
+    color: var(--btt);
+}
 .area
 {
     min-width: 50% !important;
